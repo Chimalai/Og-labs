@@ -1,0 +1,25 @@
+{
+  "name": "og-labs",
+  "version": "1.0.0",
+  "description": "Effortlessly upload random images to 0G decentralized storage, supporting multiple wallets and rotating proxies.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "0G",
+    "PetrukStar",
+    "automation",
+    "proxy",
+    "multiswap",
+    "nodejs"
+  ],
+  "author": "PetrukStar",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "axios": "^1.6.0",
+    "ethers": "^6.8.1",
+    "cli-progress": "^3.12.0"
+  }
+}
